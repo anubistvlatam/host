@@ -3,14 +3,44 @@
 <item title="Golden Premier" description="Movies" hdposterurl="https://i.imgur.com/JMa7jws.png" streamformat="hls" url="https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8"/>
 <item title="Azteca 7" description="Azteca 7" hdposterurl="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" streamformat="hls" url="https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"/>
 <item title="A+" description="A+" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" streamformat="hls" url="http://ultrapremium.cloud:8080/live/felipebautistatv/26069x/59466.m3u8"/>
-<item title="Canal 5" description="Canal 5" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" streamformat="hls" url="http://ultrapremium.cloud:8080/live/felipebautistatv/26069x/59500.m3u8"/>
+<item title="Canal 5" description="Canal 5" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" streamformat="hls" url="http://181.78.105.146:2000/play/a038/index.m3u8"/>
 <item title="Las Estrellas" description="Las Estrellas" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" streamformat="hls" url="https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"/>
 <item title="Foro Tv" description="Noticias" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" streamformat="hls" url="https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8"/>
 <item title="ViXJajaja" description="Comedia" hdposterurl="https://i.imgur.com/UL1JtYb.png" streamformat="hls" url="https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8"/>
 <item title="DistritoComedia" description="Comedia" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" streamformat="hls" url="https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8"/>
 <item title="De Película" description="Comedia" hdposterurl="https://i.imgur.com/aksM8pa.png" streamformat="hls" url="https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8"/>
-<item title="De Película Plus" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
-<item title="" description="Comedia" hdposterurl="https://i.imgur.com/MMhSmDK.png" streamformat="hls" url="https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"/>
+<item title="De Película Plus" description="Comedia" hdposterurl="https://i.imgur.com/MMhSmDK.png" streamformat="hls" url="https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"/>
+<item title="Afizzionados" description="Comedia" hdposterurl="https://i.imgur.com/HBOHkgL.png" streamformat="hls" url="https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8"/>
+<item title="Azteca 1" description="Comedia" hdposterurl="https://i.imgur.com/rRxgBtI.png" streamformat="hls" url="https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"/>
+<item title="bitMe" description="Comedia" hdposterurl="https://i.imgur.com/79hrcx8.png" streamformat="hls" url="https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8"/>
+<item title="Bandamax" description="Comedia" hdposterurl="https://i.imgur.com/4DfnOTA.png" streamformat="hls" url="https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8"/>
+<item title="Canal 6 CDMX" description="Comedia" hdposterurl="https://i.imgur.com/4IGzNdq.png" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"/>
+<item title="Locomotion TV" description="Comedia" hdposterurl="https://i.imgur.com/1CftDPB.png" streamformat="hls" url="http://51.222.85.85:81/hls/loco/index.m3u8"/>
+<item title="Telehit" description="Comedia" hdposterurl="https://i.imgur.com/NVxHxJn.png" streamformat="hls" url="http://45.175.139.194:8000/play/62"/>
+<item title="TUDN" description="Deportes" hdposterurl="https://i.imgur.com/oT5CAvd.png" streamformat="hls" url="http://190.61.102.67:2000/play/a08j/index.m3u8"/>
+<item title="TNT FHD" description="Comedia" hdposterurl="https://es.wikipedia.org/wiki/TNT_(Latinoam%C3%A9rica)#/media/Archivo:TNT_Logo_2016.svg" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4103.m3u8"/>
+<item title="TNT SERIES FHD" description="Comedia" hdposterurl="https://es.wikipedia.org/wiki/TNT_Series#/media/Archivo:TNT_Series_Logo_2016.png" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4050.m3u8"/>
+<item title="CINECANAL FHD" description="Comedia" hdposterurl="https://es.wikipedia.org/wiki/Cinecanal#/media/Archivo:CinecanalLA.png" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4068.m3u8"/>
+<item title="SONY FHD" description="Comedia" hdposterurl="https://es.wikipedia.org/wiki/Sony_Channel_(Latinoam%C3%A9rica)#/media/Archivo:Sony_Channel_LA_2023.png" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4048.m3u8"/>
+<item title="CINEMAX FHD" description="Comedia" hdposterurl="https://es.wikipedia.org/wiki/Cinemax#/media/Archivo:Cinemax_(Yellow).svg" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4110.m3u8"/>
+<item title="24/7 RETRO PLUS" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1116297.m3u8"/>
+<item title="24/7 - LOS SIMPSON HD" description="Comedia" hdposterurl="https://es.wikipedia.org/wiki/Los_Simpson#/media/Archivo:The_Simpsons_yellow_logo.svg" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/29412.m3u8"/>
+<item title="" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
+<item title="" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
+<item title="" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
+<item title="" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
+<item title="" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
+<item title="" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
+
+
+
+
+
+
+
+
+
+
 <item title="" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
 
 
