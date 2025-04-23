@@ -1,9 +1,22 @@
 <Content>
+<item title="||-------ANUBISTV------||" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>  
 <item title="Golden Multiplex" description="Comedia" hdposterurl="https://i.imgur.com/Gnz4twB.png" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155790.m3u8"/>
 <item title="Golden Premier" description="Movies" hdposterurl="https://i.imgur.com/JMa7jws.png" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4091.m3u8"/>
 <item title="Azteca 7" description="Azteca 7" hdposterurl="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" streamformat="hls" url="https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"/>
+<item title="UNO MVS TV" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/6022.m3u8"/>  
+<item title="AZTECA UNO HD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4087.m3u8"/>  
+<item title="EL CANAL DE LAS ESTRELLAS" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1239363.m3u8"/>  
+<item title="TLN TELENOVELAS" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4130.m3u8"/>  
+<item title="FORO TV HD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155869.m3u8"/>  
+<item title="GALA TV" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4031.m3u8"/>  
+<item title="NUEVE" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155855.m3u8"/>  
+<item title="UNICABLE FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4052.m3u8"/>  
+<item title="IMAGEN TV FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1124600.m3u8"/>  
+<item title="AZ MUNDO FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4055.m3u8"/>  
+<item title="AZ CINEMA FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4086.m3u8"/>  
+<item title="CORAZON HD " description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155857.m3u8"/>    
 <item title="A+" description="A+" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" streamformat="hls" url="http://ultrapremium.cloud:8080/live/felipebautistatv/26069x/59466.m3u8"/>
-<item title="Canal 5" description="Canal 5" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" streamformat="hls" url="http://181.78.105.146:2000/play/a038/index.m3u8"/>
+<item title="Canal 5" description="Canal 5" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4028.m3u8"/>
 <item title="Las Estrellas" description="Las Estrellas" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" streamformat="hls" url="https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"/>
 <item title="Foro Tv" description="Noticias" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" streamformat="hls" url="https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8"/>
 <item title="ViXJajaja" description="Comedia" hdposterurl="https://i.imgur.com/UL1JtYb.png" streamformat="hls" url="https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8"/>
@@ -12,7 +25,7 @@
 <item title="De Película Plus" description="Comedia" hdposterurl="https://i.imgur.com/MMhSmDK.png" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155788.m3u8"/>
 <item title="Afizzionados" description="Comedia" hdposterurl="https://i.imgur.com/HBOHkgL.png" streamformat="hls" url="https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8"/>
 <item title="Azteca 1" description="Comedia" hdposterurl="https://i.imgur.com/rRxgBtI.png" streamformat="hls" url="https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"/>
-<item title="bitMe" description="Comedia" hdposterurl="https://i.imgur.com/79hrcx8.png" streamformat="hls" url="https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8"/>
+<item title="bitMe" description="Comedia" hdposterurl="https://i.imgur.com/79hrcx8.png" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/47698.m3u8"/>
 <item title="Bandamax" description="Comedia" hdposterurl="https://i.imgur.com/4DfnOTA.png" streamformat="hls" url="https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8"/>
 <item title="Locomotion TV" description="Comedia" hdposterurl="https://i.imgur.com/1CftDPB.png" streamformat="hls" url="http://51.222.85.85:81/hls/loco/index.m3u8"/>
 <item title="Telehit" description="Comedia" hdposterurl="https://i.imgur.com/NVxHxJn.png" streamformat="hls" url="http://45.175.139.194:8000/play/62"/>
@@ -68,7 +81,67 @@
 <item title="VH1 CLASSIC" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4133.m3u8"/>
 <item title="MUCH MUSIC" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1156059.m3u8"/>
 <item title="24/7 RETRO PLUS" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1116297.m3u8"/>
+<item title="NETFLIX TV" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1188392.m3u8"/>
+<item title="CINE AMAZON PRIME" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1200682.m3u8"/>  
+<item title="CINE PARAMOUNT+" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1200683.m3u8"/>  
+<item title="CINEMA ROBOTS" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1202400.m3u8"/>  
+<item title="CINEMA DISNEY FAMILY" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1161847.m3u8"/>  
+<item title="CINEMA DIGITAL" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1202401.m3u8"/>  
+<item title="TCM" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155806.m3u8"/>  
+<item title="CINEMA DREAMWORKS" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1161849.m3u8"/>    
+<item title="CINE LATINO" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4136.m3u8"/>
+<item title="CINEMA DISNEY PIXAR" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155781.m3u8"/>
+<item title="CINE ESTELAR" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1156007.m3u8"/>
+<item title="MOVIE CENTER PREMIUM" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1147993.m3u8"/>
+<item title="CINEMA FAMILIA" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1156760.m3u8"/>
+<item title="PANICO TV HD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/7436.m3u8"/>
+<item title="MULTICINEMA" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1148845.m3u8"/>
+<item title="DHE" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/24180.m3u8"/>
+<item title="TBS" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4011.m3u8"/>
+<item title="EL GARAGE HD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155864.m3u8"/>
+<item title="EL GOURMET FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4042.m3u8"/>
+<item title="COCINA" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1153332.m3u8"/>
+<item title="COMEDY CENTRAL FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4039.m3u8"/>
+<item title="DISTRITO COMEDIA FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4040.m3u8"/>
+<item title="WOBI TV FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4107.m3u8"/>
+<item title="GLITZ FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4045.m3u8"/>  
+<item title="TRU TV" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/1155879.m3u8"/>  
+<item title="BABY TV HQ FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4116.m3u8"/>  
+<item title="BABY FIRST FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4088.m3u8"/>  
+<item title="NICKELODEON FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4058.m3u8"/>  
+<item title="DISCOVERY KIDS FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4072.m3u8"/>  
+<item title="CARTOON NETWORK FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4063.m3u8"/>  
+<item title="DISNEY CHANNEL" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4004.m3u8"/>  
+<item title="DISNEY JR FHD" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/live/carlosbentancor/CB5320481/4111.m3u8"/>  
+<item title="----PELICULAS----" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
+<item title="Matrix-1999" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1095595.mkv"/>
+<item title="Mars Attacks!-1996" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1095593.mkv"/>
+<item title="Men in Black: International (2019)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1095603.mkv"/>
+<item title="ad Vitam (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1230480.mkv"/>
+<item title="The Calendar Killer (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1230711.mkv"/>
+<item title="Star Trek: Section 31 (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1231891.mkv"/>
+<item title="Amenaza en el aire (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1232149.mp4"/>
+<item title="El robo perfecto 2: Pantera (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1232152.mkv"/>
+<item title="Piglet (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1233027.mp4"/>
+<item title="Emmanuelle (2024)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1233029.mp4"/>
+<item title="Hombre lobo (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1233132.mkv"/>
+<item title="Culpa mía: Londres (2025)" description="Comedia" hdposterurl="https://pics.filmaffinity.com/my_fault_london-816550087-large.jpg" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1234183.mkv"/>
+<item title="Dogman (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1234834.mkv"/>
+<item title="Amor explosivo (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1235836.mkv"/>
+<item title="Contraataque (2025)" description="Comedia" hdposterurl="https://pics.filmaffinity.com/contraataque-858490501-large.jpg" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1236413.mkv"/>
+<item title="Francotirador: La batalla final (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1236877.mkv"/>
+<item title="Plankton, la película (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1237208.mkv"/>
+<item title="Mesa de regalos (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1237810.mkv"/>
+<item title="Unos padre de miedo (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1237925.mkv"/>
+<item title="Blancanieves (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1238789.mkv"/>
+<item title="Popeye the Slayer Man (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1239175.mkv"/>
+<item title="Peter Pan: Pesadilla en Nunca Jamás (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1239337.mkv"/>
+<item title="Mickey 17 (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1239936.mkv"/>
+<item title="Heart Eyes (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1240156.mkv"/>
+<item title="Una película de Minecraft (2025)" description="Comedia" hdposterurl="Logo" streamformat="hls" url="http://tv.nstvlatino.com:8080/movie/carlosbentancor/CB5320481/1240672.mkv"/>
+
 <item title="" description="Comedia" hdposterurl="Logo" streamformat="hls" url="ur"/>
+  
 </Content>
 
 
@@ -76,3 +149,4 @@
 
 
 
+  
